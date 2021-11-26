@@ -1,0 +1,39 @@
+{"intents": [
+
+  {"tag": " casual greetings",
+  "patterns": ["hello", "hi", "hey", "what's up", "sup", "greetings"],
+  "responses": ["hello,", "hi", "how can i help you", "what can i do for you"]},
+
+  {"tag": "greetings",
+  "patterns": ["how are you", "how are you doing", "you good","hope you are fine"],
+  "responses":["i'm fine"]},
+  {"tag": " casual greetings",
+  "patterns": ["hello", "hi", "hey", "what's up", "sup", "greetings"],
+  "responses": ["hello,", "hi", "how can i help you", "what can i do for you"]},
+
+  {"tag": "greetings",
+  "patterns": ["how are you", "how are you doing", "you good","hope you are fine"],
+  "responses":["i'm fine"]},
+  {"tag": " casual greetings",
+  "patterns": ["hello", "hi", "hey", "what's up", "sup", "greetings"],
+  "responses": ["hello,", "hi", "how can i help you", "what can i do for you"]},
+
+  {"tag": "greetings",
+  "patterns": ["how are you", "how are you doing", "you good","hope you are fine"],
+  "responses":["i'm fine"]},
+  {"tag": " casual greetings",
+  "patterns": ["hello", "hi", "hey", "what's up", "sup", "greetings"],
+  "responses": ["hello,", "hi", "how can i help you", "what can i do for you"]},
+
+  {"tag": "greetings",
+  "patterns": ["how are you", "how are you doing", "you good","hope you are fine"],
+  "responses":["i'm fine"]},
+  {"tag": " casual greetings",
+  "patterns": ["hello", "hi", "hey", "what's up", "sup", "greetings"],
+  "responses": ["hello,", "hi", "how can i help you", "what can i do for you"]},
+
+  {"tag": "greetings",
+  "patterns": ["how are you", "how are you doing", "you good","hope you are fine"],
+  "responses":["i'm fine"]}
+
+]}
